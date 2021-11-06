@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621590568 source:c:\users\florian\desktop\12002209_ue4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621608041 source:d:\studieren\2.semester\360.016 programmieren 1 [vu]\Übung_4\12002209_ue4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

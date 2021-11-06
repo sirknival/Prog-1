@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623613121 source:c:\users\florian\desktop\12002209_ue5\main.c
+	"dbfunc.h"
+
+1623507816 c:\users\florian\desktop\12002209_ue5\dbfunc.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1623613240 source:c:\users\florian\desktop\12002209_ue5\dbfunc.c
+	"dbfunc.h"
+

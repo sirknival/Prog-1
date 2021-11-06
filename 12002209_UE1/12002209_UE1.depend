@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616137199 source:c:\users\florian\desktop\12002209_ue1\main.c
+	<stdio.h>
+	<stdlib.h>
+
